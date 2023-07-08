@@ -1,0 +1,13 @@
+/node_modules
+/vendor
+/public
+.env
+.budfiles
+npm-debug.log
+yarn-error.log
+.cashe-loader
+composer.phar
+dist
+node_modules
+vendor
+*.lock
